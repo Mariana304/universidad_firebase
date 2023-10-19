@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620144998041",
+    "project_id": "universidad--jueves-mariana",
+    "storage_bucket": "universidad--jueves-mariana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620144998041:android:04e00a1f3255afeb576a08",
+        "android_client_info": {
+          "package_name": "com.cesde.universidad_firebase_jueves"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUcDxjUbg1SiHHe650i1t1A63sKtJyNf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
